@@ -1,0 +1,19 @@
+{
+  "name": "express",
+  "description": "A hello world Express.js app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/merronteklu/express-wn21-1-2.git"
+  },
+  "author": "Merron Teklu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/merronteklu/express-wn21-1-2/issues"
+  },
+  "homepage": "https://github.com/merronteklu/express-wn21-1-2#readme"
+}
