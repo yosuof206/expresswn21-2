@@ -1,0 +1,23 @@
+{
+  "name": "express-2",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yosuof206/expresswn21-2"
+  },
+  "author": "Yosuof Ibrahim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yosuof206/expresswn21-2/issues"
+  },
+  "homepage": "https://github.com/yosuof206/expresswn21-2/blob/main/README.md",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
